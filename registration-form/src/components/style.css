@@ -1,0 +1,28 @@
+.create_account_heading{
+	margin-bottom: 0;
+}
+
+.username_tf{
+	margin:10px 0;
+}
+
+#outlined-basic{
+	width: 90%
+}
+
+.first_Last_name{
+	display: flex;
+	flex-direction: row;
+	margin: 10px 0;
+
+}
+
+.email_tf{
+	margin: 10px 0;
+
+}
+
+.terms_of_service{
+	display: flex;
+	display-direction:wrap;
+}
